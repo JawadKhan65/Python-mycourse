@@ -14,3 +14,6 @@ example1 = "jawad's car"
 example2 = 'jawad "what are you doing"'
 
 # another way is to use f string in it we can also use variables will discuss later
+
+
+# Also one more data type is boolean True or False it simple return the no or Yes value
