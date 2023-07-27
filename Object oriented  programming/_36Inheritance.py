@@ -29,8 +29,8 @@ e2.showLanguage()
 
 class grape:
     def __init__(self):
-        self._name = "hassan"
-        self.__name = "hassan"
+        self.name = "hassan"
+        self.__name = "jawad"
 a = grape()
 print(a._grape__name)        
-print(a._name)        
+print(a.name)        
